@@ -198,9 +198,9 @@ header .container {
   
   .mobile-menu-container {
     max-width: 330px;
-    transform: translate(10%, -50%);
     padding: 310px 100px 50px 100px;
     background-image: url(/img/mobile-menu_tablet.webp);
+    transform: translate(20%, -50%);
   }
 }
 .social-icons {
